@@ -1,7 +1,7 @@
 #L4D2-Trial
 
 ##Goal
-The goal of this project is to create a truly immersive realistic L4D2 experience that people who love realism in games can truly enjoy.
+The goal of this project is to create a truly immersive realistic L4D2 experience that people who love realism in games can truly enjoy. Might end up taking some inspiration from Holdout or other excellent mutations with interestin features.
 
 ##Features
 ###Weapons And Ammunition Are Scarce (And So Are Other Items)
@@ -130,6 +130,12 @@ The witch is just a very sad zombie. She might have some seriously sharp claws, 
 
 ###Tank Will Be A Killing Machine, But Stoppable
 It makes sense for the tank to do a lot of damage: in fact, he doesn't do enough damage on coop on difficulties other than expert! He is a giant hulk, he should be able to kill/incapacitate people with only 1 or 2 hits. He should not however, take so long to kill when you don't have the best weapons or are missing a few teammates. His damage will be high, but his health will be reduced when compared to typical game modes.
+
+###Realistic Friendly Fire
+A bullet to the head would outright kill people most of the time: yet in l4d2 it can take more than that. It shouldn't.
+
+###M60 and Grenade Launcher Can Be Refitted
+It makes no sense that you are somehow forbidden from finding additional ammo for these weapons. Sure, it should be rarer, but if you make it possible to find these weapons it is also inherently possible to find some more ammunition for them somewhere!
 
 ##Other Possible (Very Unlikely And Mostly Silly) Features
 ###Allergies
