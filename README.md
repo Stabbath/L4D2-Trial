@@ -14,7 +14,8 @@ Every item, weapon and bullet will have a weight, and players will be progressiv
 
 ###Amount Of Carried Gear Is Less Limited
 In the game you are only allowed to carry at most 1 throwable, 1 small health item, 1 large health item, 1 side-arm, and 1 primary weapon.  
-This doesn't make that much sense, so a possible feature will be the addition of a backpack of sorts, or some way of accessing alternate weapon sets, so that players can carry more of the gear that they find, though they will be punished by encumbrance.
+This doesn't make that much sense, so a possible feature will be the addition of a backpack of sorts, or some way of accessing alternate weapon sets, so that players can carry more of the gear that they find, though they will be punished by encumbrance.  
+Note that players will be able to carry ammunition for weapons that they don't currently carry, which has an impact on other features!
 
 ###You Can Exchange Weapons And Ammo
 You can't drop your weapon naturally in the game unless you pick another one up. You also cannot trade ammo with allies or drop ammo.  
@@ -48,3 +49,16 @@ Once a player dies, he will be dead for good - assuming he can't be brought back
 ###Common Infected Might Have Useful Objects
 Common infected were people too, many of them trying to survive this apocalypse: so it is only plausible that some of them might have had useful items with them when they were turned that are still on their body. This is especially the case for zombies from hospital settings, as well as riot guards (who should have more than just tonfas), army men, the passing's bikers and swamp fever's swamp people.  
 The change is simple: cause them to have a small random chance of dropping something useful.
+
+###Weapons Are Not Always Fully Loaded
+Whenever you pick a gun up, it will have a full clip in it along with several other clips of ammo!  
+This makes no sense, so weapons will have a fairly random amount of bullets in them, often none, and will very rarely have any extra clips with them!
+
+###There Is No Ambience Music
+There is no soundtrack to real life, so it obviously has to go!
+
+###There Is No HUD
+There is no HUD telling you information you should be able to tell from the situation: how much health you or your fellow survivors have, what items they're carrying, what weapons you have and how much ammo you have in them. Note that you will be notified of how much ammo you pick up each time you pick it up, and when going through your backpack you can determine how much ammo you have and whatnot.
+
+###There Are No Magic Coloured Outlines
+Just like the realism mutation, survivors do not have a magic outline and cannot be seen through walls. In addition to this, items also do not have any outlines.
