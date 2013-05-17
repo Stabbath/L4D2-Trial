@@ -126,7 +126,7 @@ As opposed to the game's normal shift-walk, nonshift-run way of doing things, th
 Related to the previous feature and many other subjects. Players will not be able to run all day or jump all day or shove infected away all day or swing melee weapons all day. They will be fatigued which will slow them down in everything they do, and if overworked may lead to exhaustion and other effects. The more encumbered they are, the more quickly they'll be fatigued. The more fatigued without going overboard, however, the more used to it they will be, and the higher their endurance will be in the future.
 
 ###Witch Will Not Be A Killing Machine
-The witch is just a very sad zombie. She might have some seriously sharp claws, but if a hunter ravaging you won't kill you in 3 seconds, neither will being slashed by a witch a single time. Witches are also overly resistant to damage, considering they're just sad skinny emo zombies with no titanium-alloy plating over their skin.
+The witch is just a very sad zombie. She might have some seriously sharp claws, but if a hunter ravaging you won't kill you in 3 seconds, neither will being slashed by a witch a single time. Witches are also overly resistant to damage, considering they're just sad skinny emo zombies with no titanium-alloy plating over their skin. They will, however, be allowed to go after more than one player, since it doesn't make sense for her to freak out after a kill and run for the hills. She will also probably become angered more quickly.
 
 ###Tank Will Be A Killing Machine, But Stoppable
 It makes sense for the tank to do a lot of damage: in fact, he doesn't do enough damage on coop on difficulties other than expert! He is a giant hulk, he should be able to kill/incapacitate people with only 1 or 2 hits. He should not however, take so long to kill when you don't have the best weapons or are missing a few teammates. His damage will be high, but his health will be reduced when compared to typical game modes.
@@ -137,6 +137,8 @@ A bullet to the head would outright kill people most of the time: yet in l4d2 it
 ###M60 and Grenade Launcher Can Be Refitted
 It makes no sense that you are somehow forbidden from finding additional ammo for these weapons. Sure, it should be rarer, but if you make it possible to find these weapons it is also inherently possible to find some more ammunition for them somewhere!
 
-##Other Possible (Very Unlikely And Mostly Silly) Features
-###Allergies
-Some survivors might have random allergies to something outdoors!
+###Survivor Bots Are Not Stupid
+Survivor bots often do very stupid things, like staring at infected who have you pinned for 30 seconds before doing anything about it, or following a jockeyed player around instead of shoving it or shooting it off. They are also afraid of using melee weapons and never even pickup throwables. Sometimes they use health items when they should be saving them. This will be changed to the best of my ability, though I think there's already an addon that greatly improves survivor AI which might save me the work.
+
+###Infected Bots Are Not Stupid
+Infected bots also have a tendency to be a bit 'simple.' They tend to just charge in without thinking, or stare at players for a few seconds before attacking (smokers/boomers). Hunters get scared away with a few shots and never wall-pounce. Jockeys just walk in slowly instead of leaping everywhere. Tanks throw rocks at seemingly random times. Hopefully most of these things can be improved.
