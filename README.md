@@ -62,3 +62,35 @@ There is no HUD telling you information you should be able to tell from the situ
 
 ###There Are No Magic Coloured Outlines
 Just like the realism mutation, survivors do not have a magic outline and cannot be seen through walls. In addition to this, items also do not have any outlines.
+
+###As Time Passes By...
+Unlike in the regular game, time will pass, leading to changes in the amount of light, possibly even until nightfall. While survivors will usually leave each saferoom at dawn and sleep in them by night for safety, if they take too long getting to the next saferoom they will find themselves shrouded in darkness.
+
+###Dynamic Weather
+In the regular game you usually have pretty normal unchanged weather: clear skies. In Hard Rain you get to have some rainy storms, but only in 1 or 2 maps. The hope is to have a reasonable degree of randomness in weather, perhaps even with flash rains in a single map that only last for half of it, or a growing fog that gets worse and worse with each map that's played through.
+
+###Being Incapacitated Underwater Drowns You
+To be fair, this already happens in the game, but it is insanely slow, taking maybe close to a minute to lead to death. That's not very realistic, so it needs changing.
+
+###Survivors Do Not Say Silly Anti-Climactic Things
+In L4D1 there was no real problem with this, but with L4D2 there's a tendency for survivors to be overly playful for someone who is stuck with 3 other people in a world with millions of zombies who want to kill you. It sometimes ruins the mood. So survivor chatter will be partially filtered to dispose of the worst offenders.
+
+###There Are No Survivor Protection Mechanics
+There are several mechanics in place to protect survivors from taking too much damage: one example is the invulnerability timer (aka 'goframes'). Another is the limit to the time after a common infected hit is registered before another one can register again. Hits during this interval will deal no damage and have no effect on the player.  
+So we will remove all of these mechanics, to increase the realism.
+
+###Boomer Bile Is All-Consuming
+In L4D2 boomer vomit will attract infected to people hit with it: yet if it comes from a vial thrown by survivors it doesn't cover survivors, and if it comes from a boomer it won't cover infected. This makes no sense.  
+So the game will be changed so that all sources of bile cover all possible targets in it!
+
+###Weapons Jam or Break
+Sometimes it happens: weapons jam. If a weapon gets wet it won't usually work very well. Homemade pipe-bombs can fail, and molotovs won't ignite if the cloth is completely wet. Things like these will be added.
+
+###Melee Weapons Don't Make Mincemeat Out Of Zombies
+A frying pan killing 4 infected with a single swipe? Really? That has to be changed.
+
+###Survivors Are Not Fire-Retardant
+In L4D2, common infected will be ignited until they die or walk into water if they walk through fire. Survivors, however, somehow manage to be extinguished the second they walk out of the flames! This makes no sense, and needs fixing.
+
+###Windows Don't Instantly Break
+In L4D2 and possibly other more recent Source games, windows have a tendency to be broken just by having someone walk into them. This doesn't make much sense, like a lot of other things! Hopefully it can be remedied.
