@@ -76,15 +76,15 @@ To be fair, this already happens in the game, but it is insanely slow, taking ma
 In L4D1 there was no real problem with this, but with L4D2 there's a tendency for survivors to be overly playful for someone who is stuck with 3 other people in a world with millions of zombies who want to kill you. It sometimes ruins the mood. So survivor chatter will be partially filtered to dispose of the worst offenders.
 
 ###There Are No Survivor Protection Mechanics
-There are several mechanics in place to protect survivors from taking too much damage: one example is the invulnerability timer (aka 'goframes'). Another is the limit to the time after a common infected hit is registered before another one can register again. Hits during this interval will deal no damage and have no effect on the player.  
-So we will remove all of these mechanics, to increase the realism.
+There are several mechanics in place to protect survivors from taking too much damage: one example is the invulnerability timer (aka 'godframes'). Another is the limit to the time after a common infected hit is registered before another one can register again. Hits during this interval will deal no damage and have no effect on the player. Also, common infected magically do half damage when attacking from behind: makes no sense.  
+So all of these mechanics will be removed.
 
 ###Boomer Bile Is All-Consuming
 In L4D2 boomer vomit will attract infected to people hit with it: yet if it comes from a vial thrown by survivors it doesn't cover survivors, and if it comes from a boomer it won't cover infected. This makes no sense.  
 So the game will be changed so that all sources of bile cover all possible targets in it!
 
 ###Weapons Jam or Break
-Sometimes it happens: weapons jam. If a weapon gets wet it won't usually work very well. Homemade pipe-bombs can fail, and molotovs won't ignite if the cloth is completely wet. Things like these will be added.
+Sometimes it happens: weapons jam. If a weapon gets wet it won't usually work very well. Homemade pipe-bombs can fail, and molotovs won't ignite if the cloth is completely wet. Not all melee weapons would be unbreakable in real life. Shoving infected away with a weapon might slowly cause damage to that weapon. Things like these will be added.
 
 ###Melee Weapons Don't Make Mincemeat Out Of Zombies
 A frying pan killing 4 infected with a single swipe? Really? That has to be changed.
@@ -94,3 +94,34 @@ In L4D2, common infected will be ignited until they die or walk into water if th
 
 ###Windows Don't Instantly Break
 In L4D2 and possibly other more recent Source games, windows have a tendency to be broken just by having someone walk into them. This doesn't make much sense, like a lot of other things! Hopefully it can be remedied.
+
+###Flashlights Run On Batteries
+Unlike the regular game, flashlights will not have unlimited power!
+
+###Taking Damage Can Actually Cause Damage
+In this game, as in many others, "damage" is a virtual concept that affects a virtual loose representation of your "health." It is an intention to make the virtual damage you take do more than just alter your 'health': it may cause damage to your internal organs, or break bones, causing you to suffer more damage over time, be slowed down, have impaired reflexes and aiming ability, lose consciousness, etc. You might take extra damage each time you take a step if your leg is broken. Situations like taking fall damage, being viciously attacked by special infected or swarms of 
+common infected, etc will be of special concern.
+
+###Medkits Are Not A Quick Fix To An Unhealthy Life-Style
+Instead of giving a free increase in health of 80% or whatever it is, medkits will still heal you, but a lot less. The main focus of medkits will be on curing special wounds like the kind mentioned in the point above.
+
+###Special Infected Cannot Be Deadstopped
+If a very-high-speed 70 kg former-man crashes against you, you're not going to be able to magically stop it with a shove.
+
+###Chargers Cannot Be Leveled Without Consequences
+Leveling chargers is alright, it makes some sense that an axe to the head would kill a zombie even if it's a large fast one, but if you're standing in front of it when you kill it, his corpse would smash against you and send you flying away! Expect consequences from leveling chargers face-to-face.
+
+###Blunt Melee Weapons Can Stagger Targets
+
+###Unrealistic Item Spawns Will Be Removed
+Sometimes there's a weapon spawn in a place that doesn't make much sense, or a defibrillator on top of a bed in a kid's bedroom or something of the sort. These spawns will be progressively filtered and removed. Spawns that would make sense but aren't in the game may be added as well.
+
+###Weapons Should Have More Recoil
+Weapons should have a larger kickback than what is seen in game!
+
+
+
+
+####Other Possible (Very Unlikely And Mostly Silly) Features
+###Allergies
+Some survivors might have random allergies to something outdoors!
