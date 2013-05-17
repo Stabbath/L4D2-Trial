@@ -4,7 +4,7 @@
 The goal of this project is to create a truly immersive realistic L4D2 experience that people who love realism in games can truly enjoy.
 
 ##Features
-###Weapons And Ammunition Are Scarce
+###Weapons And Ammunition Are Scarce (And So Are Other Items)
 In L4D2 there are weapons everywhere. Players can freely choose what weapon they prefer and adapt to different situations however they want. In addition to this, a single weapon spawn can magically generate an unlimited amount of weapons that every player can pick up as many times as he wants!  
 In this modification all weapons will be single pickup, and there will be a lot less of them around. Ammunition piles will have a limited amount of ammo with different amounts of ammo for each different kind of weapon.
 
@@ -119,9 +119,18 @@ Sometimes there's a weapon spawn in a place that doesn't make much sense, or a d
 ###Weapons Should Have More Recoil
 Weapons should have a larger kickback than what is seen in game!
 
+###Sprinting
+As opposed to the game's normal shift-walk, nonshift-run way of doing things, the roles will be reversed: people will walk slowly by default, and be able to sprint with shift. It may be allowed for players to be able to both walk slowly and sprint in addition to the normal running, but in that case the speed for running will be changed: players will have slightly slower crouch, walk and run movement, and a slightly faster addition which will be sprinting.
 
+###Fatigue
+Related to the previous feature and many other subjects. Players will not be able to run all day or jump all day or shove infected away all day or swing melee weapons all day. They will be fatigued which will slow them down in everything they do, and if overworked may lead to exhaustion and other effects. The more encumbered they are, the more quickly they'll be fatigued. The more fatigued without going overboard, however, the more used to it they will be, and the higher their endurance will be in the future.
 
+###Witch Will Not Be A Killing Machine
+The witch is just a very sad zombie. She might have some seriously sharp claws, but if a hunter ravaging you won't kill you in 3 seconds, neither will being slashed by a witch a single time. Witches are also overly resistant to damage, considering they're just sad skinny emo zombies with no titanium-alloy plating over their skin.
 
-####Other Possible (Very Unlikely And Mostly Silly) Features
+###Tank Will Be A Killing Machine, But Stoppable
+It makes sense for the tank to do a lot of damage: in fact, he doesn't do enough damage on coop on difficulties other than expert! He is a giant hulk, he should be able to kill/incapacitate people with only 1 or 2 hits. He should not however, take so long to kill when you don't have the best weapons or are missing a few teammates. His damage will be high, but his health will be reduced when compared to typical game modes.
+
+##Other Possible (Very Unlikely And Mostly Silly) Features
 ###Allergies
 Some survivors might have random allergies to something outdoors!
