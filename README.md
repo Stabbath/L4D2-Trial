@@ -21,7 +21,7 @@ Note that players will be able to carry ammunition for weapons that they don't c
 You can't drop your weapon naturally in the game unless you pick another one up. You also cannot trade ammo with allies or drop ammo.  
 This will be changed so that you are free to distribute weapons and ammo any way you like, including just ditching gear to be less encumbered.
 
-###Noise Attracts Zombies 
+###Gunfire Noise Attracts Zombies 
 When you shoot a gun, it makes loud noises. Yet zombies in L4D2 are deaf for the most part, only reacting if you're noisy within a few feet of them. This is silly!  
 So the game will be changed so that each gun generates a certain amount of noise, and too much noise too close together calls the attention of a small zombie horde. If the noise continues, zombies will continue to join the mob. If you're too noisy taking care of the mob, you'll call even more zombies on yourself, leading to your eventual death (or to the death of every zombie within earshot).
 
