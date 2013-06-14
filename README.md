@@ -7,6 +7,7 @@ The goal of this project is to create a truly immersive realistic L4D2 experienc
 ###Weapons And Ammunition Are Scarce (And So Are Other Items)
 In L4D2 there are weapons everywhere. Players can freely choose what weapon they prefer and adapt to different situations however they want. In addition to this, a single weapon spawn can magically generate an unlimited amount of weapons that every player can pick up as many times as he wants!  
 In this modification all weapons will be single pickup, and there will be a lot less of them around. Ammunition piles will have a limited amount of ammo with different amounts of ammo for each different kind of weapon.
+It does not make sense that there's so many items around either, especially in saferooms. If it's the apocalypse and there's other survivors, I'm fairly sure at least one of them would've been a jerk and would've looted all of the first aid kits, weapons and ammo. In fact, the 4 survivors that we play as are jerks! They always take all of the health items and whatever's available. You can't blame them for wanting to improve their own chances of survival, but as the graffiti on walls clearly proves, other people have been through those saferooms, and they wouldn't be leaving a plethora of utensils behind.
 
 ###Carried Items Are Not Weightless
 In L4D2 you move at the same speed and with the same ease regardless of how much stuff and what kind of stuff you're carrying.  
@@ -90,7 +91,7 @@ Sometimes it happens: weapons jam. If a weapon gets wet it won't usually work ve
 A frying pan killing 4 infected with a single swipe? Really? That has to be changed.
 
 ###Survivors Are Not Fire-Retardant
-In L4D2, common infected will be ignited until they die or walk into water if they walk through fire. Survivors, however, somehow manage to be extinguished the second they walk out of the flames! This makes no sense, and needs fixing.
+In L4D2, infected will be ignited until they die or walk into water if they walk through fire. Survivors, however, somehow manage to be extinguished the second they walk out of the flames! This makes no sense, and needs fixing.
 
 ###Windows Don't Instantly Break
 In L4D2 and possibly other more recent Source games, windows have a tendency to be broken just by having someone walk into them. This doesn't make much sense, like a lot of other things! Hopefully it can be remedied.
