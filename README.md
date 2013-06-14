@@ -8,6 +8,7 @@ The goal of this project is to create a truly immersive realistic L4D2 experienc
 In L4D2 there are weapons everywhere. Players can freely choose what weapon they prefer and adapt to different situations however they want. In addition to this, a single weapon spawn can magically generate an unlimited amount of weapons that every player can pick up as many times as he wants!  
 In this modification all weapons will be single pickup, and there will be a lot less of them around. Ammunition piles will have a limited amount of ammo with different amounts of ammo for each different kind of weapon.
 It does not make sense that there's so many items around either, especially in saferooms. If it's the apocalypse and there's other survivors, I'm fairly sure at least one of them would've been a jerk and would've looted all of the first aid kits, weapons and ammo. In fact, the 4 survivors that we play as are jerks! They always take all of the health items and whatever's available. You can't blame them for wanting to improve their own chances of survival, but as the graffiti on walls clearly proves, other people have been through those saferooms, and they wouldn't be leaving a plethora of utensils behind.
+Another thing: static machine guns/miniguns never run out of ammo! They overheat, but ammo is unlimited. This is unrealistic.
 
 ###Carried Items Are Not Weightless
 In L4D2 you move at the same speed and with the same ease regardless of how much stuff and what kind of stuff you're carrying.  
