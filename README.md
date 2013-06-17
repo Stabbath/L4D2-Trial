@@ -144,3 +144,6 @@ Survivor bots often do very stupid things, like staring at infected who have you
 
 ###Infected Bots Are Not Stupid
 Infected bots also have a tendency to be a bit 'simple.' They tend to just charge in without thinking, or stare at players for a few seconds before attacking (smokers/boomers). Hunters get scared away with a few shots and never wall-pounce. Jockeys just walk in slowly instead of leaping everywhere. Tanks throw rocks at seemingly random times. Hopefully most of these things can be improved.
+
+###Survivor Incapacitated Weapon Issues Are Tweaked
+These issues are: a) survivors do not drop their secondary weapon(s) on death, and b) survivors somehow summon a miracle pistol out of the void if they had a melee weapon when they are incapacitated. For a), survivors will drop everything they had on them when they die, and they will be allowed to use weapons other than their secondaries (ie throwables and primary) if I find a way to do that; and for b), they will just hold on to their melee, if that is possible, otherwise we might just have to live with miracle pistols.
