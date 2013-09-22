@@ -60,13 +60,13 @@ This makes no sense, so weapons will have a fairly random amount of bullets in t
 There is no soundtrack to real life, so it obviously has to go!
 
 ###There Is No HUD
-There is no HUD telling you information you should be able to tell from the situation: how much health you or your fellow survivors have, what items they're carrying, what weapons you have and how much ammo you have in them. Note that you will be notified of how much ammo you pick up each time you pick it up, and when going through your backpack you can determine how much ammo you have and whatnot.
+There is no HUD telling you information you should be able to tell from the situation: how much health you or your fellow survivors have, what items they're carrying, what weapons you have and how much ammo you have in them. Note that you will be notified of how much ammo you pick up each time you pick it up, and when going through your backpack you can determine how much ammo you have and whatnot. There must also not be any kill/FF notices (the small text that appears on the left of the screen) and no hint messages! 
 
 ###There Are No Magic Coloured Outlines
 Just like the realism mutation, survivors do not have a magic outline and cannot be seen through walls. In addition to this, items also do not have any outlines.
 
 ###As Time Passes By...
-Unlike in the regular game, time will pass, leading to changes in the amount of light, possibly even until nightfall. While survivors will usually leave each saferoom at dawn and sleep in them by night for safety, if they take too long getting to the next saferoom they will find themselves shrouded in darkness.
+Unlike in the regular game, time will pass, leading to changes in the amount of light, possibly even until nightfall. While survivors will usually leave each saferoom at dawn and sleep in them by night for safety, if they take too long getting to the next saferoom they will find themselves shrouded in darkness. Time of day might be tracked cross-map, not sure yet, and survivors might not sleep in every saferoom since maps aren't that big. Maybe time will pass cross-map but if it was night when they got to the saferoom it becomes day again. Maybe survivors have the chance to decide how many hours to sleep, which affects their health and whatnot. 
 
 ###Dynamic Weather
 In the regular game you usually have pretty normal unchanged weather: clear skies. In Hard Rain you get to have some rainy storms, but only in 1 or 2 maps. The hope is to have a reasonable degree of randomness in weather, perhaps even with flash rains in a single map that only last for half of it, or a growing fog that gets worse and worse with each map that's played through.
@@ -78,7 +78,7 @@ To be fair, this already happens in the game, but it is insanely slow, taking ma
 In L4D1 there was no real problem with this, but with L4D2 there's a tendency for survivors to be overly playful for someone who is stuck with 3 other people in a world with millions of zombies who want to kill you. It sometimes ruins the mood. So survivor chatter will be partially filtered to dispose of the worst offenders.
 
 ###There Are No Survivor Protection Mechanics
-There are several mechanics in place to protect survivors from taking too much damage: one example is the invulnerability timer (aka 'godframes'). Another is the limit to the time after a common infected hit is registered before another one can register again. Hits during this interval will deal no damage and have no effect on the player. Also, common infected magically do half damage when attacking from behind: makes no sense.  
+There are several mechanics in place to protect survivors from taking too much damage: one example is the invulnerability timer (aka 'godframes'). Another is the limit to the time after a common infected hit is registered before another one can register again. Hits during this interval will deal no damage and have no effect on the player. Also, common infected magically do half damage when attacking from behind: makes no sense. Yet another instance of such protections happens when a survivor is pinned: he becomes immune to friendly fire until he is released. This shouldn't happen.  
 So all of these mechanics will be removed.
 
 ###Boomer Bile Is All-Consuming
@@ -145,6 +145,12 @@ Survivor bots often do very stupid things, like staring at infected who have you
 ###Infected Bots Are Not Stupid
 Infected bots also have a tendency to be a bit 'simple.' They tend to just charge in without thinking, or stare at players for a few seconds before attacking (smokers/boomers). Hunters get scared away with a few shots and never wall-pounce. Jockeys just walk in slowly instead of leaping everywhere. Tanks throw rocks at seemingly random times. Hopefully most of these things can be improved.
 
+###There Is Cross-Campaign Consistency
+Supposedly the 5 main campaigns are part of the same storyline, each taking place very soon after the previous one. The same happens with the L4D1 campaigns. Yet somehow survivors always seem to completely recover all of their health and lose all of their items at the beginning of each campaign. This doesn't make any sense, so if someone wants to play several campaigns in a row, this will be taken into account. 
+
+###There Are Survivor-Survivor Collisions 
+If you walk inside of a survivor, you will very very slowly be pushed away, but you will be able to be inside of them for a bit. You are also able to walk through your teammates, for example to take the lead in a tight hallway. If you are surrounded by spit and only a tiny corner is safe, you can just pile into each other in the corner and avoid the damage when logically you wouldn't all be able to stay in that corner. None of this makes any sense! There's collisions for everything else, which does make sense, so survivor-survivor collisions will also be added. 
+
 ###Survivor Incapacitated Weapon Issues Are Tweaked
 These issues are: a) survivors do not drop their secondary weapon(s) on death, and b) survivors somehow summon a miracle pistol out of the void if they had a melee weapon when they are incapacitated. For a), survivors will drop everything they had on them when they die, and they will be allowed to use weapons other than their secondaries (ie throwables and primary) if I find a way to do that; and for b), they will just hold on to their melee, if that is possible, otherwise we might just have to live with miracle pistols.
 
@@ -154,3 +160,30 @@ So additional events will be added! One, inspired by the holdout mutation, will 
 
 ###Multiple Tanks and Witches
 Already mentioned in the above point, but now generalised: you might have several boss spawns of both types throughout the map. You might have 1 tank at the beginning, 1 halfway through and 1 near the end, you might have 3 witches spawning right next to each other, you might have a lot of other things.
+
+###Damage Received By Special Infected Is More Realistic
+Headshots, stomach shots and chest shots should do more damage. Arms and legs should do less damage, but maybe cripple the infected. SI healths may also be adjusted, because the jockey should die quicker than he currently does. 
+
+###There Are No Pain Perceptors
+The red pointers that appear in your screen when you take damage, pointing to the source of damage. Those are not realistic!
+
+###Dynamic Paths/Settings
+This is not really a question of realism and immersion, but something cool to make the game more interesting. Maps will have randomly chosen modifications beyond the normal ones. You might have additional obstacles, maybe a barricade you have to climb over, maybe an additional panic event, maybe just a stash of items in a hidden room with the fresh corpses of other survivors (or rather, former survivors). Random props in some places. Other such things.
+
+###No Addons
+Just because.
+
+###No Floating Names
+You can't see the name of a player by looking at text floating above his head!
+
+###No Crosshair
+
+###No Skeets
+No skeets as in the skeeting mechanism which kills off hunters (in versus anyway) when they take 150 damage or more in one pounce is not in effect. They'll still die if their health was low enough of course. 
+
+###Car Alarms Are Always Set Off
+In L4D2 if the car alarm was to be set off through gun fire or an explosion when survivors are too far away, it will in fact remain disabled. Also, car alarms would not be set off by infected walking on top of them/crashing against them. This must be changed!
+
+###No Black And White Effect
+After taking 2 (by default) incapacitations, your screen loses all color and goes black and white. This will be removed, though the black and white effect may still be around as a consequence of taking extreme damage or having broken bones or something like that.
+
