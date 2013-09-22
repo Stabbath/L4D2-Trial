@@ -155,8 +155,21 @@ If you walk inside of a survivor, you will very very slowly be pushed away, but 
 These issues are: a) survivors do not drop their secondary weapon(s) on death, and b) survivors somehow summon a miracle pistol out of the void if they had a melee weapon when they are incapacitated. For a), survivors will drop everything they had on them when they die, and they will be allowed to use weapons other than their secondaries (ie throwables and primary) if I find a way to do that; and for b), they will just hold on to their melee, if that is possible, otherwise we might just have to live with miracle pistols.
 
 ###New Events
-There are very few different kinds of events currently in the game. You have bosses, ie a witch or a tank. And then you have a few variations of horde panic events, where for example you have to run through a gauntlet to shut off an alarm that's calling infinite hordes (infinite hordes make no sense and will be removed too), you have to gather fuel gans, or there's just a finite horde coming after you, with little variation to those. Static boss spawns like in the sacrifice and the passing make things interesting, but there's still not that wide an array of events.  
+There are very few different kinds of events currently in the game. You have bosses, ie a witch or a tank. And then you have a few variations of horde panic events, where for example you have to run through a gauntlet to shut off an alarm that's calling infinite hordes (infinite hordes make no sense and will be removed too), you have to gather fuel cans, or there's just a finite horde coming after you, with little variation to those. Static boss spawns like in the sacrifice and the passing make things interesting, but there's still not that wide an array of events.  
 So additional events will be added! One, inspired by the holdout mutation, will be to have a few witches spawn in a cluster. For example, if you set off an alarm, it might irritate them so that suddenly you have a handful of witches coming after you. You might have more than one tank at the same time, like in the sacrifice finale. You might have static-boss-ish things in maps other than the sacrifice and passing ones, for example you could have a lot of tables and party material spawn in a place because it was some girl's birthday party, and you'll have her as a witch there. General special infected might be used in events, for example a hunting pack of 6+ hunters stalking you at one point.
+####General
+#####Tank
+	Spawn 1 tank, with a 2% chance of spawning a second tank with it.
+#####Witch
+	Spawn 1 witch, with chances of spawning additional witches with it (unlimited, but with decreasing probability).
+#####Hunting Pack
+	Spawn 6-9 hunters in close sequence.
+#####Charge Spit
+	Spawn 1-2 chargers and 1-3 spitters in close sequence.
+#####Jockey Squad
+	Spawn 4-6 jockeys in close sequence.
+#####Natural Horde
+	Spawn a mob with 20-30 common infected.
 
 ###Multiple Tanks and Witches
 Already mentioned in the above point, but now generalised: you might have several boss spawns of both types throughout the map. You might have 1 tank at the beginning, 1 halfway through and 1 near the end, you might have 3 witches spawning right next to each other, you might have a lot of other things.
@@ -186,4 +199,7 @@ In L4D2 if the car alarm was to be set off through gun fire or an explosion when
 
 ###No Black And White Effect
 After taking 2 (by default) incapacitations, your screen loses all color and goes black and white. This will be removed, though the black and white effect may still be around as a consequence of taking extreme damage or having broken bones or something like that.
+
+###Infected Health And Speed Are Variable
+Not all infected have the same constitution. Some might die extremely quickly, but others might be unyielding. Some might've been sprinters while others were fat slobs. Applies to both common and special.
 
